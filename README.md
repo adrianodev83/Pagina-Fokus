@@ -1,4 +1,4 @@
-![Descricao da sua imagem](https://imgur.com/a/b5ACRhN)
+v![https://imgur.com/0eie9Mc](https://imgur.com/0eie9Mc)
 
 # Titulo do projeto
 
@@ -22,7 +22,7 @@ e mais
 
 ## 📁 Acesso ao projeto
 
-`acesse pelo Link`:
+`acesse pelo Link`: https://pagina-fokus-6k1e3zuyw-adrianos-projects-15cf7b8f.vercel.app/
 
 ## Como me encontrar:
 
